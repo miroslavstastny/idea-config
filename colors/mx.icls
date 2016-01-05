@@ -1,7 +1,8 @@
 <scheme name="mx" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="CONSOLE_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
