@@ -1,27 +1,31 @@
 <application>
   <component name="libraryTable">
-    <library name="async-DefinitelyTyped" type="javaScript">
+    <library name="async-DefinitelyTyped">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_async_async.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="gapi-DefinitelyTyped" type="javaScript">
+    <library name="gapi-DefinitelyTyped">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gapi_gapi.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="gruntjs-DefinitelyTyped" type="javaScript">
+    <library name="gruntjs-DefinitelyTyped">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_gruntjs_gruntjs.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="passport-DefinitelyTyped" type="javaScript">
+    <library name="passport-DefinitelyTyped">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebStorm10/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_passport_passport.d.ts" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
