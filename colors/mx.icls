@@ -40,6 +40,5 @@
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>
